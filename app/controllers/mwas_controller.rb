@@ -1,0 +1,2 @@
+class MwasController < ApplicationController
+end
